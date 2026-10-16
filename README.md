@@ -34,7 +34,7 @@ Dành cho bác sĩ, điều dưỡng hoặc nghiên cứu viên muốn sử dụ
 
 #### Bước 1: Tải bộ cài đặt phát hành sẵn
 1. Truy cập trang **Releases** trên GitHub:  
-   👉 **[https://github.com/nguyentranminhchien-ccpl/monitor-ocr-autofill/releases](https://github.com/nguyentranminhchien-ccpl/monitor-ocr-autofill/releases)**
+   👉 **[https://github.com/nguyentranminhchien-ccpl/monitor-ocr-autofill/releases](https://github.com/nguyentranminhchien-ccpl/Monitor-OCR-/releases)]**
 2. Tải file nén mới nhất: **`monitor-ocr-autofill-v2.0-web.zip`**.
 3. Giải nén vào thư mục bất kỳ trên máy tính (ví dụ: `D:\Monitor_AutoFill` trên Windows hoặc thư mục `Documents` trên Mac).
 
