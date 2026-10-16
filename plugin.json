@@ -1,0 +1,14 @@
+{
+  "name": "monitor-ocr-autofill",
+  "displayName": "Monitor OCR & Auto-fill",
+  "description": "Nhận diện ảnh màn hình monitor bệnh viện (Philips, GE, Mindray...), trích xuất chuỗi dấu hiệu sinh tồn (HR, SBP, DBP, MAP) theo từng mốc thời gian, xử lý dữ liệu khuyết thiếu, và tự động tạo đoạn mã JavaScript để điền vào biểu mẫu web nghiên cứu (dotquyevt, REDCap, ODK...).",
+  "version": "1.0.0",
+  "author": "Nguyễn Trần Minh Chiến",
+  "email": "nguyentranminhchien.hpmu@gmail.com",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Nhận diện ảnh monitor này và tạo code console nhập liệu cho form EVT",
+    "Trích xuất chuỗi huyết áp từ 3 ảnh Philips IntelliVue và điền vào bước 5",
+    "Xử lý dữ liệu khuyết thiếu trong chuỗi huyết áp của tôi"
+  ]
+}
