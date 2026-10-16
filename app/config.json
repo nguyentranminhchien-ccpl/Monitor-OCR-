@@ -1,7 +1,0 @@
-{
-  "gemini_api_key": "AQ.Ab8RN6KOWEH8hw_m9DMMdXKZFxc77SIt6Btai_6zKOqjJeH5PQ",
-  "patient_root_dir": "C:\\Users\\Thinkpad T14 gen 2\\OneDrive\\Documents\\NCKH\\Project\\Đề án thạc sĩ\\Viêm phổi, Rối loạn nuốt liên quan nhồi máu não sau can thiệp lấy huyết khối\\Số liệu tháng 102026",
-  "default_model": "gemini-3.1-flash-lite",
-  "step_minutes": 3,
-  "default_impute": "forward-fill"
-}
