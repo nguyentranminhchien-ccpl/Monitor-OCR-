@@ -1,0 +1,7 @@
+{
+  "gemini_api_key": "",
+  "patient_root_dir": "",
+  "default_model": "gemini-3.1-flash-lite",
+  "step_minutes": 3,
+  "default_impute": "forward-fill"
+}
